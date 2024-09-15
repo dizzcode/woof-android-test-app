@@ -1,3 +1,3 @@
 ## Woof android test app
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/dizzcode/woof-android-test-app/blob/main/img/img.png)

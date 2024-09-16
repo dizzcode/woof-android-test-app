@@ -150,7 +150,6 @@ fun DogItem(
                 )
                 .background(color = color)
         ){
-
             Row(
                 modifier = modifier
                     .fillMaxWidth()
@@ -178,10 +177,6 @@ fun DogItem(
                 )
             }
         }
-
-
-
-
     }
 }
 
